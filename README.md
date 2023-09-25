@@ -1,2 +1,5 @@
-<h1>Flask portfolio website.</h1>
-<p>This project currently has no portfolio content. It was used to learn how to set up a Flask app. The app and content will be added later.</p>
+# Portfolio website
+
+This Flask web app is the first step towards showcasing my coding projects. The app uses the Univers portfolio template found at [free-css.com](<a href>)https://www.free-css.com/free-css-templates/page270/univers).
+
+The portfolio app is hosted at[ry4n.pythonanywhere.com](https://ry4n.pythonanywhere.com).
