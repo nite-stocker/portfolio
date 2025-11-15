@@ -1,0 +1,9 @@
+[project]
+name = "portfolio"
+version = "0.1.0"
+description = "A Flask-powered portfolio website demonstrating backend integration with an existing HTML template and contact form functionality."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "flask>=3.1.2",
+]
